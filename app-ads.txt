@@ -1,8 +1,5 @@
-OWNERDOMAIN=[yourdomain.com]
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
-Remember to replace the OwnerDomain Line with your domain. 
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
-
+OWNERDOMAIN=tw-lotto-master.github.io
+ironsrc.com, 679957 , Direct
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
 playdigo.com, 1956, RESELLER
